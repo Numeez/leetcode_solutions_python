@@ -12,7 +12,7 @@ class Solution1:
             return 0
         return res
 
-# This is the solution that I used at it involves some math and logic
+# This is the solution that I used and it involves some math and logic
 
 class Solution2:
     def reverse(self, x: int) -> int:
